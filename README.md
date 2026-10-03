@@ -5,7 +5,7 @@ It finds the same product across Indian shopping sites (Amazon.in, Flipkart, Cro
 for a product-matching demo project.
 
 ## Identification
-User agent: `SameItemBot/0.1 (+https://github.com/<your-username>/sameitembot; upendrabit235@gmail.com)`
+User agent: `SameItemBot/0.1 (+https://github.com/uthbob/sameitembot; upendrabit235@gmail.com)`
 
 ## What it fetches
 - Sitemaps and category/listing pages, to build an index of product URLs
